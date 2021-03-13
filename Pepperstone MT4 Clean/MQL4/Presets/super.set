@@ -1,0 +1,13 @@
+InfoMode=4
+PeriodSet=1
+TakeProfit=100
+StopLoss=50
+InfoCorner=0
+InfoText=16777215
+SoundAlert=true
+EmailAlert=false
+PushAlert=true
+BUY=14822282
+SELL=65535
+Circle_size=1
+Line_Width=1

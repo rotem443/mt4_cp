@@ -1,0 +1,12 @@
+MaxSpread=3
+PipsUntilBreakeven=10
+Slippage=3
+MagicNumber=1
+SmallTimeframe=5
+BigTimeframe=60
+TicketDetailsFileName=EMAExpertTicketDetails.bin
+yOpenOrderInTheLastTime_is_already_open_order_MinutesLookBack=30
+EmaIndicatorDataRetrieval_PERIOD_M1_ema_14_1M_EmaPeriod=14
+EmaIndicatorDataRetrieval_PERIOD_M1_ema_50_1M_EmaPeriod=50
+DebugEnterStrategy_enter_strategy_TakeProfit=10.0
+DebugEnterStrategy_enter_strategy_StopLoss=10.0
